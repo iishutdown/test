@@ -21,6 +21,7 @@ const add = (array1: _array1) => {
     console.log(newarray)
 
 }
+console.log("testos")
 
 type _array1 = number[] 
 
