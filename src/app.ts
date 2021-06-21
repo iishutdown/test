@@ -22,6 +22,7 @@ const add = (array1: _array1) => {
 
 }
 console.log("testos")
+// new feature add
 
 type _array1 = number[] 
 
